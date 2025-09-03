@@ -15,3 +15,5 @@ faiss_index/
 *.pkl
 # OS
 .DS_Store
+
+17-BasicsOfLangchain/5-VectorStore/

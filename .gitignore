@@ -1,0 +1,17 @@
+# Local env
+.env
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb~
+# Data/DB
+*.db
+*.sqlite3
+faiss_index/
+17-BasicsOfLangchain/5-VectorStore/chroma_db/
+17-BasicsOfLangchain/5-VectorStore/chroma_db_2/
+# Large binaries
+*.bin
+*.faiss
+*.pkl
+# OS
+.DS_Store

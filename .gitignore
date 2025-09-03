@@ -17,3 +17,5 @@ faiss_index/
 .DS_Store
 
 17-BasicsOfLangchain/5-VectorStore/
+
+.env
